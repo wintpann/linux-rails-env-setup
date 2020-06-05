@@ -19,6 +19,7 @@
 * Breaktimer (breaks manager)
 * Sublime3
 * Ungit (cool git GUI)
+* Heroku CLI
 
 ## How to
 

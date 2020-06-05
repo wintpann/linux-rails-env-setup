@@ -16,3 +16,4 @@ chmod a+x ./pcs/*
 ./pcs/breaktimer.sh
 ./pcs/sublime3.sh
 ./pcs/ungit.sh
+./pcs/heroku.sh
