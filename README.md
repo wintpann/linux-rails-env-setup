@@ -20,6 +20,7 @@
 * Sublime3
 * Ungit (cool git GUI)
 * Heroku CLI
+* Sqlite Browser
 
 ## How to
 
