@@ -1,4 +1,4 @@
-# Rails Development Environment Setup
+# Ruby/Rails Development Environment Setup
 
 > Tested only on Ubuntu 20.04
  
@@ -8,7 +8,7 @@
 * Rails dependencies (git, yarn, nodejs, sqlite3, libs)
 * RVM (ruby version manager)
 * Ruby 2.6.5
-* Rails gem
+* Rails 6.0.2.2
 * Postgresql 12 with dev libs
 * Google chrome
 * Okular (document viewer)
@@ -20,10 +20,11 @@
 * Sublime3
 * Ungit (cool git GUI)
 * Heroku CLI
+* pgAdmin4
 * Sqlite Browser
 
-## How to
+## How to setup
 
-1. Change `pcs/configure-git.sh` (email, name)
+1. Configure `pcs/configure-git.sh` (email, name)
 2. run `chmod a+x main.sh`
 3. run `./main.sh`

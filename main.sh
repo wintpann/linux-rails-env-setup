@@ -17,4 +17,5 @@ chmod a+x ./pcs/*
 ./pcs/sublime3.sh
 ./pcs/ungit.sh
 ./pcs/heroku.sh
+./pcs/pgadmin.sh
 ./pcs/sqlite-browser.sh
