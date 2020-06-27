@@ -12,7 +12,7 @@
 * Postgresql 12 with dev libs
 * Google chrome
 * Okular (document viewer)
-* Atom
+* VSCode
 * Discord
 * Peek (screen recording tool)
 * Gnome tweak tool
