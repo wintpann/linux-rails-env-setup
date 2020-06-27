@@ -9,7 +9,7 @@ chmod a+x ./pcs/*
 ./pcs/postgresql.sh
 ./pcs/chrome.sh
 ./pcs/okular.sh
-./pcs/atom.sh
+./pcs/vscode.sh
 ./pcs/discord.sh
 ./pcs/peek.sh
 ./pcs/gnome-tweak.sh
