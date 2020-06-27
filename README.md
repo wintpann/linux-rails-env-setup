@@ -1,6 +1,7 @@
 # Ruby/Rails Development Environment Setup For Linux
 
 > Also includes most commot other not-dev apps
+
 > Tested only on Ubuntu 20.04
  
 ## Installs next packages:
