@@ -1,3 +1,4 @@
+#!/bin/bash
 git config --global color.ui true
 
 git config --global user.name "Sergey Manshin"

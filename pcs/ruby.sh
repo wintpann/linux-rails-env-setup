@@ -1,5 +1,8 @@
-rvm install 2.6.5
+#!/bin/bash --login
+rvm install 2.7.1
 
-rvm use 2.6.5 --default
+rvm alias create default 2.7.1
+
+rvm use default --default
 
 gem install bundler
