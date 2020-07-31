@@ -18,3 +18,4 @@ chmod +x ./pcs/*
 ./pcs/pgadmin.sh
 ./pcs/sqlite-browser.sh
 ./pcs/transmission.sh
+./pcs/rar.sh

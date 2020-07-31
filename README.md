@@ -25,6 +25,7 @@
 * pgAdmin4
 * Sqlite Browser
 * transmission-qt (gtk version doesn't support magnet links)
+* rar-unrar tool (unrar x file.rar | rar a archive-name file-n dir-n | rar u archive-name file-n)
 
 ## How to setup
 
