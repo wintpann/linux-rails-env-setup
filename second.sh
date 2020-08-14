@@ -19,3 +19,4 @@ chmod +x ./pcs/*
 ./pcs/sqlite-browser.sh
 ./pcs/transmission.sh
 ./pcs/rar.sh
+./pcs/postman.sh
